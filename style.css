@@ -1,8 +1,27 @@
 h1 {
     background-color:bisque;
     color:rgb(201, 163, 114);
+    text-align:center;
+    font-family: fantasy;
+    font-size: 32pt;
+    font-weight: bold;
 }
 
 body {
     background-color:darksalmon;
+}
+
+.thumbnail {
+    width: 100px; 
+    padding: 10px;
+    background-color:antiquewhite; 
+}
+
+#main-header {
+    background-color:burlywood;
+}
+
+#thumb-container {
+    background-color:cornsilk; 
+    margin: 10px; 
 }
